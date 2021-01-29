@@ -1,1 +1,1 @@
-# GetProgrammingWithHaskell-Book-Exercises
+# Solution for GetProgrammingWithHaskell Book's Exercises
